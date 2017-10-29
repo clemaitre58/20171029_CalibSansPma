@@ -1,0 +1,47 @@
+***Interval trainig : calibration sans PMA ou FTP***
+
+Je vous présente dans cette article une méthode permettant de réaliser la calibration de vos exercices d'interval training qu'ils soient de type court (développement de PMA) soit de type long (développement des qualités CLM ou montés de Col).
+
+Pour cela, il vous faut un outil permettant de lire vos données de puissance.
+Dans la vidéo d'illustration, j'utilise [Strava](https://www.strava.com/dashboard). 
+D'autres solutions sont possibles comme WKO+ ou Goldencheetah.
+
+Bon, ils vous faut aussi des données de puissances et donc un capteur de puissance… Est ce que ça vallait vraiment le coup de préciser???
+
+# Pour des intervals courts
+
+Faisons l'hypothèse que vous avez à disposition une bosse de 5km soit une possibilité de 15min d'effort. De plus nous allons utiliser un modèle de type 2 minutes d'effort et 1 minute de récupération.
+
+Nous allez donc la possibilité de faire 5 intervals pour un total de 10 minutes d'effort (on ne compte pas le temps de récupération).
+Pour connaitre, la valeur de puissance à maintenir, il suffit de lire la valeur en ordonnée pour un temps de 10 minutes.
+On obtient ici 401 watt (voir image ci-dessous). Comme on cherche à améliorer ses capacité on va rajouter entre un demi-palier de PMA soit 10 à 15W.
+Ici je travaillerais donc à 410W.
+
+# Pour les intervals longs
+
+Pour les intervals longs, c'est strictement identiques.
+
+Hypothèse on veut faire 3 x (10min de travail et 4min de récupération).
+On va donc lire pour t = 30 min sur le profil record. On obtient ici 330 Watt auxquels on ajoute 10W soit : 340W.
+
+
+# Limites!
+
+Eh oui, cette méthode n'est pas sans limite. En effet, pour utiliser votre [profil de puissance record](http://velo-trainer.fr/profil-de-puissance-record-analyser-vos-performances/), il doit être à jour.
+Cela veut dire que vous devez utiliser votre profil record des 6 dernières semaines sauf si vous êtes en préparation hivernale ou à la sortie d'une période de coupure.
+Dans ces cas, je vous conseille de partir sur un PPR plus global que 6 semaines et minorer les puissances lues d'une dizaine de watts.
+
+
+
+**Document que j'utilise :**
+
+[mes notes]()
+
+**Explications en vidéo**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5I3SwgRZXY" frameborder="0" allowfullscreen></iframe>
+
+Pour aller plus loin :
+
+- [Analyse d'une séance de PMA avec Strava](http://velo-trainer.fr/analyse-dune-seance-de-pma-avec-strava/)
+- [Notre dossier de présentation de Strava](http://velo-trainer.fr/dossier-strava-un-outil-ludique-et-utile-pour-le-cycliste-2-0/)
